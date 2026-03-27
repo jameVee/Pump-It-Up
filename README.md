@@ -59,5 +59,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 - For reproducibility, set and keep explicit random seeds in training and CV steps.
 
 ---
-
-If desired, this README can be expanded with final model metrics and a dedicated `requirements.txt` file.
